@@ -1,5 +1,4 @@
-<?php get_header(); ?>
-			
+<?php get_header(); ?>	
 	<div id="content">
 	
 		<div id="inner-content" class="row">
